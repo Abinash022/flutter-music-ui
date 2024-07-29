@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:music_app_ui_/Constant/pallete.dart';
 import 'package:music_app_ui_/Screens/home_page.dart';
+import 'package:music_app_ui_/Screens/music_playing_screen.dart';
 
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({super.key});
@@ -14,9 +15,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
 
   List pages = [
     const HomePage(),
-    const Center(
-      child: Text('This is 2nd Screen.'),
-    ),
+    const MusicPlayingScreen(),
     const Center(
       child: Text('This is 3rd Screen.'),
     ),
