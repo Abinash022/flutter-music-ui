@@ -259,3 +259,70 @@ List<Recommendation> recommendationsData = [
       coverPhoto:
           "https://www.hindustantimes.com/ht-img/img/2023/09/26/1600x900/Raman_negi_Hindustan_Times_Samarth_Goyal_1695730813953_1695730814116.JPG"),
 ];
+
+class FavouriteMusic {
+  final String coverPicture;
+
+  FavouriteMusic({required this.coverPicture});
+}
+
+List<FavouriteMusic> favouriteMusic = [
+  FavouriteMusic(
+    coverPicture:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lmqe9q5iCrG7om27vJVHCQtMdEO_llU2-Zky7_l4hru56G56LjgfPyOt2gTBzntotJA&usqp=CAU',
+  ),
+  FavouriteMusic(
+    coverPicture: 'https://pbs.twimg.com/media/Cs47zArVYAAg5dS.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture: 'https://i.redd.it/b32np4naw8s71.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://i1.sndcdn.com/artworks-WljuShSEMs8yAmbj-ihrjyw-t500x500.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://i.ebayimg.com/images/g/yP0AAOSwc71ksb1A/s-l1200.webp',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://i.pinimg.com/550x/6f/aa/be/6faabede758acefac57bb78a14e52110.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://cdn.media.amplience.net/i/metallica/20150806_195210_7549_752673?fmt=auto&maxW=1050',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOkNgNGDpcw4mMV99wYkFUwOSCkyMBJpmGQ&usqp=CAU',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPv5ad5roi-RtsklsmeJYzz6PGPwUl64V2ATZ3GaLbx6-ubFXFewQh8qOcERiNlU7ZHEY&usqp=CAU',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTa7H2jH0NGPZEWVwtKXwdLEYgYNQTDzQlatgtzgdw-xDg17gv19lumNw3sVSE0Z_qJAM&usqp=CAU',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://i.pinimg.com/236x/3c/ab/31/3cab31d5586b3b2222e9a4809e381351.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://lh3.googleusercontent.com/bJksi9-eR3JAjIYce3fLz3NMX-lNvU-xhQXRrPLfFTqeN58sJLr-m5dzeFVI0qvTy_r-eQcUaYemz2iKgw=w544-h544-l90-rj',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://i.pinimg.com/736x/63/a0/08/63a008f631ae7492a75a001bd0791e8f.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://www.premadepixels.com/wp-content/uploads/2021/12/Paradise-Album-Cover-PP1.jpg',
+  ),
+  FavouriteMusic(
+    coverPicture:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyFfp9G0unbluK_XiKvrXQGid4MvxrLwYqQ&usqp=CAU',
+  ),
+];

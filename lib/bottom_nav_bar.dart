@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:music_app_ui_/Constant/pallete.dart';
+import 'package:music_app_ui_/Screens/favourite_screen.dart';
 import 'package:music_app_ui_/Screens/home_page.dart';
 import 'package:music_app_ui_/Screens/music_playing_screen.dart';
 
@@ -16,9 +17,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
   List pages = [
     const HomePage(),
     const MusicPlayingScreen(),
-    const Center(
-      child: Text('This is 3rd Screen.'),
-    ),
+    const FavouriteScreen(),
     const Center(
       child: Text('This is 4th Screen.'),
     ),

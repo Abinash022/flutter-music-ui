@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:music_app_ui_/Constant/pallete.dart';
-import 'package:music_app_ui_/Data/home_page_data.dart';
+import 'package:music_app_ui_/Data/data.dart';
 import 'package:music_app_ui_/Widgets/homepage_form_field.dart';
 import 'package:music_app_ui_/Widgets/recently_played_cards.dart';
 import 'package:music_app_ui_/Widgets/recommendation_page.dart';
