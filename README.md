@@ -18,12 +18,12 @@ Welcome to the Music App UI built with Flutter! This project showcases a sleek a
 # Demo: 
 
 <p align="center">
-  <img src="https://drive.google.com/drive/u/2/folders/11B04zC4NotFsWEOmZMoR1iEKhnbOcttz" alt="Music Screen" width="250"/>
-  <img src="https://drive.google.com/drive/u/2/folders/11B04zC4NotFsWEOmZMoR1iEKhnbOcttz" alt="Home Screen" width="250"/>
-  <img src="https://drive.google.com/drive/u/2/folders/11B04zC4NotFsWEOmZMoR1iEKhnbOcttz" alt="Favorite Albums and Music Screen" width="250"/>
+  <img src="Demo/Screenshot 2024-07-30 at 2.10.47 AM.png" alt="Music Screen" width="250"/>
+  <img src="Demo/Screenshot_1722628126.png" alt="Home Screen" width="250"/>
+  <img src="Demo/Screenshot_1722627491.png" alt="Favorite Albums and Music Screen" width="250"/>
 </p>
-<p align="center">
-  <img src="https://drive.google.com/drive/u/2/folders/11B04zC4NotFsWEOmZMoR1iEKhnbOcttz" alt="App Demo" width="300"/>
+<p align="left">
+  <img src="Demo/Simulator Screen Recording - iPhone 15 - 2024-08-03 at 02.01.18.gif" alt="App Demo" width="300"/>
 </p>
 
 ## Installation and Usage
